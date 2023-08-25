@@ -1,7 +1,7 @@
 @font-face {
   font-family: "eicons";
-  src: url("/https://monojkoley.github.io/DreamStories//wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5_21_0");
-  src: url("/https://monojkoley.github.io/DreamStories//wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5_21_0#iefix") format("embedded-opentype"), url("/https://monojkoley.github.io/DreamStories//wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5_21_0") format("woff2"), url("/https://monojkoley.github.io/DreamStories//wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5_21_0") format("woff"), url("/https://monojkoley.github.io/DreamStories//wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5_21_0") format("truetype"), url("/https://monojkoley.github.io/DreamStories//wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5_21_0#eicon") format("svg");
+  src: url("www.monojkoley.github.io/DreamStories//wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5_21_0");
+  src: url("www.monojkoley.github.io/DreamStories//wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5_21_0#iefix") format("embedded-opentype"), url("www.monojkoley.github.io/DreamStories//wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5_21_0") format("woff2"), url("www.monojkoley.github.io/DreamStories//wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5_21_0") format("woff"), url("www.monojkoley.github.io/DreamStories//wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5_21_0") format("truetype"), url("www.monojkoley.github.io/DreamStories//wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5_21_0#eicon") format("svg");
   font-weight: normal;
   font-style: normal;
 }
